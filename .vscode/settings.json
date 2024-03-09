@@ -1,0 +1,10 @@
+{
+  "autopep8.args": [
+    "--indent-size=2",
+    "--line-length=200"
+  ],
+  "pylint.args": [
+    "--disable=line-too-long,missing-docstring",
+    "--line-string=' '"
+  ]
+}
